@@ -58,6 +58,13 @@ JavaScript – for functionality and countdown logic
 --> Sample Screenshot
 (You can include a screenshot here if desired for visual aid)
 
+-->### 🖼️ Screenshot
+
+Here’s how the app looks when in use:
+
+![Event Countdown Screenshot](Event Countdown Manager.png)
+
+
  Author
 Sai Keerthi
 For learning and practice purposes.
