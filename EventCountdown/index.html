@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Event Countdown App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h2>Event Countdown Manager</h2>
+
+  <form id="eventForm">
+    <label>Event Title*:
+      <input type="text" id="title" required />
+    </label>
+
+    <label>Event Description*:
+      <textarea id="description" required></textarea>
+    </label>
+
+    <label>Event Date & Time*:
+      <input type="datetime-local" id="datetime" required />
+    </label>
+
+    <label>Email for Reminder (optional):
+      <input type="email" id="email" />
+    </label>
+
+    <label>Event Category*:
+      <select id="category" required>
+        <option value="">Select Category</option>
+        <option value="Birthday">Birthday</option>
+        <option value="Meeting">Meeting</option>
+        <option value="Holiday">Holiday</option>
+        <option value="Custom">Custom</option>
+      </select>
+    </label>
+
+    <br />
+    <button type="submit">Add Event</button>
+  </form>
+
+  <h3>Upcoming Events:</h3>
+  <div id="eventsList"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
