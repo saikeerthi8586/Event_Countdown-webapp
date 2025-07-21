@@ -62,7 +62,7 @@ JavaScript – for functionality and countdown logic
 
 Here’s how the app looks when in use:
 
-![Event Countdown Screenshot](Event Countdown Manager.png)
+![Event Countdown Screenshot](Event_Countdown_Screenshot.png)
 
 
  Author
