@@ -1,4 +1,4 @@
-# 📅 Event Countdown Manager
+## Event Countdown Manager
 
 The **Event Countdown Manager** is a simple web-based app that allows users to create, view, and manage countdowns for upcoming events like birthdays, meetings, holidays, or custom reminders.
 
@@ -6,7 +6,7 @@ It visually displays the time left for each event and provides edit/delete funct
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add events with title, description, date & time, category, and optional email.
 - Real-time countdown for each event.
@@ -16,9 +16,9 @@ It visually displays the time left for each event and provides edit/delete funct
 
 ---
 
-## 🧩 How to Run the Project
+## How to Run the Project
 
-### 📁 Folder Structure
+###  Folder Structure
 
 Make sure the following files are present in the same folder:
 
@@ -31,7 +31,7 @@ Event_Countdown_Screenshot.png
 
 
 
-### ▶️ Open the App
+### ▶ Open the App
 
 - Double-click `index.html`, or  
 - Right-click and choose **"Open with browser"** (Chrome/Edge/Firefox).
@@ -57,7 +57,7 @@ You will see a form to add your event.
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 - HTML – for structure  
 - CSS – for styling  
@@ -65,15 +65,7 @@ You will see a form to add your event.
 
 ---
 
-## 🖼️ Screenshot
-
-Here’s how the app looks when in use:
-
-![Event Countdown Screenshot](Event_Countdown_Screenshot.png)
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Sai Keerthi**  
 _For learning and practice purposes._
