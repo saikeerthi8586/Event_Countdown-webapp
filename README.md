@@ -3,7 +3,7 @@ The Event Countdown Manager is a simple web-based app that allows users to creat
 
 It visually displays the time left for each event and provides edit/delete functionality. If an email is entered, it even logs a reminder 24 hours before the event!
 
-🔧 Features
+--> Features
 Add events with title, description, date & time, category, and optional email.
 
 Real-time countdown for each event.
@@ -14,13 +14,11 @@ Prevents past or invalid date-time entries.
 
 Simple and clean user interface.
 
-🚀 How to Run the Project
+-->How to Run the Project
 📁 1. Folder Structure
 Make sure the following files are present in the same folder:
 
-diff
-Copy
-Edit
+
 index.html
 style.css
 script.js
@@ -31,7 +29,7 @@ Right-click and choose "Open with browser" (Chrome/Edge/Firefox).
 
 You will see a form to add your event.
 
-📝 How to Use
+ How to Use
 Fill in the form fields:
 
 Event Title (required)
@@ -50,16 +48,16 @@ Your event appears below with a live countdown.
 
 Use Edit or Delete buttons to manage your events.
 
-💻 Technologies Used
+--> Technologies Used
 HTML – for structure
 
 CSS – for styling
 
 JavaScript – for functionality and countdown logic
 
-📸 Sample Screenshot
+--> Sample Screenshot
 (You can include a screenshot here if desired for visual aid)
 
-🙌 Author
+ Author
 Sai Keerthi
 For learning and practice purposes.
