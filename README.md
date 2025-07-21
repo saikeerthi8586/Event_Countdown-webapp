@@ -1,66 +1,79 @@
-Event Countdown Manager
-The Event Countdown Manager is a simple web-based app that allows users to create, view, and manage countdowns for upcoming events like birthdays, meetings, holidays, or custom reminders.
+# 📅 Event Countdown Manager
+
+The **Event Countdown Manager** is a simple web-based app that allows users to create, view, and manage countdowns for upcoming events like birthdays, meetings, holidays, or custom reminders.
 
 It visually displays the time left for each event and provides edit/delete functionality. If an email is entered, it even logs a reminder 24 hours before the event!
 
---> Features
-Add events with title, description, date & time, category, and optional email.
+---
 
-Real-time countdown for each event.
+## 🚀 Features
 
-Edit and delete events.
+- Add events with title, description, date & time, category, and optional email.
+- Real-time countdown for each event.
+- Edit and delete events.
+- Prevents past or invalid date-time entries.
+- Simple and clean user interface.
 
-Prevents past or invalid date-time entries.
+---
 
-Simple and clean user interface.
+## 🧩 How to Run the Project
 
--->How to Run the Project
-📁 1. Folder Structure
+### 📁 Folder Structure
+
 Make sure the following files are present in the same folder:
-
 
 index.html
 style.css
 script.js
-▶️ 2. Open the App
-Double-click index.html, or
+README.md
+Event_Countdown_Screenshot.png
 
-Right-click and choose "Open with browser" (Chrome/Edge/Firefox).
+
+
+
+### ▶️ Open the App
+
+- Double-click `index.html`, or  
+- Right-click and choose **"Open with browser"** (Chrome/Edge/Firefox).
 
 You will see a form to add your event.
 
- How to Use
-Fill in the form fields:
+---
 
-Event Title (required)
+## 📝 How to Use
 
-Description (required)
+1. Fill in the form fields:
+   - Event Title (required)
+   - Description (required)
+   - Date & Time (must be in the future)
+   - Email (optional – for reminders)
+   - Category (required)
 
-Date & Time (must be in the future)
+2. Click **"Add Event"**.
 
-Email (optional – for reminders)
+3. Your event will appear below with a live countdown.
 
-Category (required)
+4. Use **Edit** or **Delete** to manage your events.
 
-Click "Add Event".
+---
 
-Your event appears below with a live countdown.
+## 💻 Technologies Used
 
-Use Edit or Delete buttons to manage your events.
+- HTML – for structure  
+- CSS – for styling  
+- JavaScript – for functionality and countdown logic
 
---> Technologies Used
-HTML – for structure
+---
 
-CSS – for styling
+## 🖼️ Screenshot
 
-JavaScript – for functionality and countdown logic
-
-### 🖼️ Screenshot
+Here’s how the app looks when in use:
 
 ![Event Countdown Screenshot](Event_Countdown_Screenshot.png)
 
+---
 
+## 👨‍💻 Author
 
- Author
-Sai Keerthi
-For learning and practice purposes.
+**Sai Keerthi**  
+_For learning and practice purposes._
