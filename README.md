@@ -55,8 +55,10 @@ CSS – for styling
 
 JavaScript – for functionality and countdown logic
 
---> Sample Screenshot
-(You can include a screenshot here if desired for visual aid)
+### 🖼️ Screenshot
+
+![Event Countdown Screenshot](Event_Countdown_Screenshot.png)
+
 
 
  Author
